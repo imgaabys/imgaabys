@@ -22,4 +22,4 @@ Technical Support Specialist & Software Engineering Student. I focus on Cloud Co
 - **French:** Beginner (Learning for future immigration)
 
 ---
-**How to reach me:** [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriella-costa-862140230/)
+📫 **How to reach me:** [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriella-costa-862140230/)
