@@ -6,6 +6,10 @@ Technical Support Specialist & Software Engineering Student. I focus on Cloud Co
 - **Current Role:** IT Support Technician at Ravel Tecnologia.
 - **Education:** Bachelor's in Software Engineering (Anhanguera).
 - **Certifications:** Microsoft AI-900 (In progress) | Google IT Support Professional.
+### 📊 My GitHub Stats
+
+![Gabriella's GitHub stats](https://github-readme-stats.vercel.app/api?username=imgaabys&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imgaabys&layout=compact&theme=radical)
 
 ### 🚀 Technical Skills
 ![Technical Support](https://img.shields.io/badge/Support-Technical%20Support-blue?style=for-the-badge&logo=fixer&logoColor=white)
@@ -15,6 +19,7 @@ Technical Support Specialist & Software Engineering Student. I focus on Cloud Co
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Office 365](https://img.shields.io/badge/Microsoft_Office_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 
 ### 🌍 Languages
 - **Portuguese:** Native
