@@ -10,6 +10,10 @@ Technical Support Specialist & Software Engineering Student. I focus on Cloud Co
 
 ![Gabriella's GitHub stats](https://github-readme-stats.vercel.app/api?username=imgaabys&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imgaabys&layout=compact&theme=radical)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imgaabys&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imgaabys&layout=compact&theme=radical"/>
+</div>
 
 ### 🚀 Technical Skills
 ![Technical Support](https://img.shields.io/badge/Support-Technical%20Support-blue?style=for-the-badge&logo=fixer&logoColor=white)
