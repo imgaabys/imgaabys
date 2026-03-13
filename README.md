@@ -8,8 +8,6 @@ Technical Support Specialist & Software Engineering Student. I focus on Cloud Co
 - **Certifications:** Microsoft AI-900 (In progress) | Google IT Support Professional.
 ### 📊 My GitHub Stats
 
-![Gabriella's GitHub stats](https://github-readme-stats.vercel.app/api?username=imgaabys&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imgaabys&layout=compact&theme=radical)
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imgaabys&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imgaabys&layout=compact&theme=radical"/>
