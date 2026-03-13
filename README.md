@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Gabriella Costa! 👋
 
-<!--
-**imgaabys/imgaabys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical Support Specialist & Software Engineering Student. I focus on Cloud Computing, AI, and IT Infrastructure, currently building a career towards international opportunities.
 
-Here are some ideas to get you started:
+### 🛠️ Professional Focus
+- **Current Role:** IT Support Technician at Ravel Tecnologia.
+- **Education:** Bachelor's in Software Engineering (Anhanguera).
+- **Certifications:** Microsoft AI-900 (In progress) | Google IT Support Professional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technical Skills
+- **Operating Systems:** Windows (Server/Pro), Linux, MacOS.
+- **Support:** Troubleshooting, Active Directory, Office 365, VPN Setup.
+- **Cloud:** Microsoft Azure Fundamentals.
+
+### 🌍 Languages
+- **Portuguese:** Native
+- **English:** Conversational (Technical)
+- **French:** Beginner (Learning for future immigration)
+
+---
+📫 **How to reach me:** https://www.linkedin.com/in/gabriella-costa-862140230/
